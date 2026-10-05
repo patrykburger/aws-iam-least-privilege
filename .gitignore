@@ -1,0 +1,9 @@
+# Never commit credentials
+*.csv
+credentials
+config
+.env
+*.pem
+*.key
+.venv/
+.DS_Store
